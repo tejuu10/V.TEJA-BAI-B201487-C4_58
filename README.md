@@ -12,14 +12,6 @@
 
 This repository contains the solution notebook and required files for the final ML Lab submission.
 
-### ✅ Files Included
-
-- `Car_Evaluation.ipynb`
-- `Concrete_Strength.ipynb`
-- `EMNIST_Letters.ipynb`
-- `README.md`
-
----
 
 ## 📚 Project Summary
 
